@@ -20,7 +20,7 @@ ms.locfileid: "80856015"
 # <a name="remote-desktop-client---supported-configuration"></a>リモート デスクトップ クライアントでサポートされる構成
 
 ## <a name="supported-pcs"></a>サポートされる PC
-次の Windows オペレーティング システムを実行している Pc に接続することができます。
+次の Windows オペレーティング システムを実行している PC に接続することができます。
 - Windows 10 Pro
 - Windows 10 Enterprise
 - Windows 8 Enterprise
@@ -59,7 +59,7 @@ ms.locfileid: "80856015"
 リモート デスクトップ クライアントは、これらの Windows のバージョンとエディションには接続できません。
 
 - Windows 7 Starter
-- Windows 7 ホーム
+- Windows 7 Home
 - Windows 8 Home
 - Windows 8.1 Home
 - Windows 10 Home
